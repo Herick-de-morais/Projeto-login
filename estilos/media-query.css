@@ -5,7 +5,7 @@
 @media (min-width: 768px) and (max-width: 992px) {
 
     body{
-        background-image: linear-gradient(to top, #5e20a8e0,#49a09d);
+        background-image: linear-gradient(to top, #6a29b9,#49a09d);
     }
 
     section#login{
@@ -27,7 +27,7 @@ section#login > div#formulario{
 @media (min-width: 992px){
 
     body{
-        background-image: linear-gradient(to top, #33146eee,#6ed8d5);
+        background-image: linear-gradient(to top, #4917a8,#2fb497);
     }
 
     section#login{
